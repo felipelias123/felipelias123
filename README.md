@@ -1,10 +1,10 @@
 ## Sejam bem-vindos! 
 
-- Sou o Felipe Gabriel.
-- Estudante e faço curso de robótica do Alura.
+- Meu nome é  Felipe Gabriel
+- Estudante e faço curso de robótica do [Alura] (https://www.alura.com.br)
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 
-  Meu e-mail para entrar em contato comigo📪
+- Meu e-mail para entrar em contato comigo📪
 
   00001079339632SP@aluno.educacao.sp.gov.br
 
